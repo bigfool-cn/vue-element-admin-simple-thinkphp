@@ -9,9 +9,9 @@ Redis3.2
 
 ThinkPHP5.1
 
-### 数据库文件vue_element_admin.sql
+数据库文件vue_element_admin.sql
 
-### 账号：admin   密码：bigfool.cn
+账号：admin   密码：bigfool.cn
 
 ## 安装
 ```shell
