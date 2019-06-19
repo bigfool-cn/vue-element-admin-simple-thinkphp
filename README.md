@@ -9,6 +9,10 @@ Redis3.2
 
 ThinkPHP5.1
 
+### 数据库文件vue_element_admin.sql
+
+### 账号：admin   密码：bigfool.cn
+
 ## 安装
 ```shell
 git clone https://github.com/bigfool-cn/vue-element-admin-simple-thinkphp
